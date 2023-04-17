@@ -1,4 +1,4 @@
-# Chat-GPT-Api
+# ChatGPT-Api
  Full Stack ChatGpt Api
  
  Backend: Nodejs , ExpressJs <br/>
